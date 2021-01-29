@@ -3,71 +3,88 @@
 
 # Le sud
 
+[Intro]
 
-C           Em/B       Am             Am/G    Am/F#
-C'est un endroit qui ressemble à la Louisiane
+c1: F   Am/E   Dm   Dm7/C   Bdim   Bbm   F   C
 
-F       C
-A l'Italie
 
-C          Em/B     Am             Am/G   Am/F#
-Il y a du linge étendu sur la terrasse
-F          Em
-Et c'est joli
+c1: F           Am/E       Dm             Dm7/C    Bdim
+l1: C'est un endroit qui ressemble à la Louisiane
+
+c1: Bbadd9  F       C
+l1: A l'Italie
+
+c1: F           Am/E       Dm             Dm7/C    Bdim
+l1: Il y a du linge étendu sur la terrasse
+
+c1: Bbadd9     Am
+l1: Et c'est joli
+
  
 [Refrain]
-F             C      C7
-On dirait le sud
-F                  C      C7
-Le temps dure longtemps
-F              C   Em/B   Am
-Et la vie sûrement
-      Am/G              D7  D4 D7 Em Dm7 Dm7 Dm7 Dm7 G
-Plus d'un million d'années
-                C
-Et toujours en été
+
+c1: Bb             F      F7
+l1: On dirait le sud
+
+c1: Bb             F      F7
+l1: Le temps dure longtemps
+
+c1: Bb             F      Fmaj7/E
+l1: Et la vie sûrement
+
+c1: Dm      G    Gsus4    G    C/G   Gm7   Gm
+l1: Plus d'un million d'années
+
+c1: C6              
+l1: Et toujours en été
+
+c1: F   Am/E   Dm   Dm7/C   Bdim   Bbm   F   C
  
 [Verse]
-C           Em/B          Am             Am/G    Am/F#
-Y'a plein d'enfants qui se roulent sur la pelouse
-F       C
-Y'a plein de chiens
-C          Em/B     Am             Am/G   Am/F#
-Y'a même un chat, une tortue, des poissons rouges
-F          Em
-Il ne manque rien
+
+c1: F           Am/E       Dm             Dm7/C    Bdim
+l1: Y'a plein d'enfants qui se roulent sur la pelouse
+
+c1: Bbadd9  F       C
+l1: Y'a plein de chiens
+
+c1: F           Am/E       Dm             Dm7/C    Bdim
+l1: Y'a même un chat, une tortue, des poissons rouges
+
+c1: Bbadd9     Am
+l1: Il ne manque rien
+
  
 [Refrain]
-F             C      C7
-On dirait le sud
-F                  C      C7
-Le temps dure longtemps
-F              C   Em/B   Am
-Et la vie sûrement
-      Am/G              D7  D4 D7 Em Dm7 Dm7 Dm7 Dm7 G
-Plus d'un million d'années
-                C
-Et toujours en été
- 
-C           Em/B          Am             Am/G    Am/F#
-Un jour où l'autre, il faudra qu'il y ait la guerre
-F       C
-On le sait bien
-C          Em/B     Am             Am/G   Am/F#
-On aime pas ça mais on ne sait pas quoi faire
-F         Em
-On dit: "c'est le destin"
+
+c1: F           Am/E       Dm             Dm7/C    Bdim
+l1: Un jour où l'autre, il faudra qu'il y ait la guerre
+
+c1: Bbadd9  F       C
+l1: On le sait bien
+
+c1: F           Am/E       Dm             Dm7/C    Bdim
+l1: On aime pas ça mais on ne sait pas quoi faire
+
+c1: Bbadd9     Am
+l1: On dit: "c'est le destin"
+
  
 [Refrain]
-F                 C      C7
-Tant pis pour le sud
-F                  C      C7
-C'était pourtant bien
-F              C      Em/B  Am
-On aurait pu vivre
-      Am/G            D       D       Dm
-Plus d'un million d'années
-G6                 C
-   Et toujours en été
- 
-(C)  Em/B  Am  Am/G  Am/F#  F  C
+
+c1: Bb             F      F7
+l1: Tant pis pour le sud
+
+c1: Bb             F      F7
+l1: C'était pourtant bien
+
+c1: Bb             F      Fmaj7/E
+l1: On aurait pu vivre
+
+c1: Dm      G    Gsus4    G    C/G   Gm7   Gm
+l1: Plus d'un million d'années
+
+c1: C6              
+l1: Et toujours en été
+
+c1: Em/B  Am  Am/G  Am/F#  F  C
