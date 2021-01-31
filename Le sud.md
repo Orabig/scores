@@ -8,6 +8,8 @@
 c1: F   Am/E   Dm   Dm7/C   Bdim   Bbm   F   C
 <script src="https://npmcdn.com/vexflow/releases/vexflow-debug.js"></script>
 <script>
+console.log("ARG");
+
 const VF = Vex.Flow;
 
 // Create a VexFlow renderer attaced to the DIV element "boo"
