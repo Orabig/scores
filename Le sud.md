@@ -6,34 +6,6 @@
 [Intro]
 
 c1: F   Am/E   Dm   Dm7/C   Bdim   Bbm   F   C
-<script type="text/javascript" src="https://npmcdn.com/vexflow/releases/vexflow-debug.js"></script>
-<script type="text/javascript">
-console.log("ARG");
-
-const VF = Vex.Flow;
-
-// Create a VexFlow renderer attaced to the DIV element "boo"
-var vf = new VF.Factory({renderer: {elementId: 'boo'}});
-var score = vf.EasyScore();
-var system = vf.System();
-
-// Create a 4/4 treble stave, and add two parallel voices
-system.addStave({
-  voices: [
-    // Top voice has 4 quarter notes with stems up
-    score.voice(score.notes('C#5/q, B4, A4, G#4', {stem: 'up'})),
-   
-    // Bottom voice has two half notes, with the stem down
-    score.voice(score.notes('C#4/h, C#4', {stem: 'down'}))
-  ]
-}).addClef('treble').addTimeSignature('4/4');
-
-// Draw it!
-vf.draw();
-</script>
-
-<div id="boo"></div>
-
 
 c1: F           Am/E       Dm             Dm7/C    Bdim
 l1: C'est un endroit qui ressemble à la Louisiane
