@@ -6,8 +6,8 @@
 [Intro]
 
 c1: F   Am/E   Dm   Dm7/C   Bdim   Bbm   F   C
-<script src="https://npmcdn.com/vexflow/releases/vexflow-debug.js"></script>
-<script>
+<script type="text/javascript" src="https://npmcdn.com/vexflow/releases/vexflow-debug.js"></script>
+<script type="text/javascript">
 console.log("ARG");
 
 const VF = Vex.Flow;
