@@ -30,6 +30,8 @@ system.addStave({
 vf.draw();
 </script>
 
+<div id="boo"></div>
+
 
 c1: F           Am/E       Dm             Dm7/C    Bdim
 l1: C'est un endroit qui ressemble à la Louisiane
