@@ -13,16 +13,16 @@
 
  
 ## Verse 1
-c1: Gm                      C
+c1: Gm          Bb            C
 l1: When are you gonna come down
 
-c1: F                     Bb
+c1: F           F/A          Bb
 l1: When are you going to land
 
 c1:  Eb                       C
 l1: I should have stayed on the farm, should have
 
-c1: F                  F
+c1: F                  Bb
 l1: Listened to my old man
 
 c1:     Gm                        C
