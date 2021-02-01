@@ -4,7 +4,7 @@
 # Goodbye yellow brick road
 
 :::vextab
-  options space=20 width=600
+  options space=20 width=400
   tabstave notation=true tablature=false key=F time=4/4
   notes :h (C-F-A/4) (G/3.C-G/4) | (A/3.D-F/4) (A/3.C-D-F/4) |
   notes :q (F-B/3.D/4) :8 D/4 (A/3.C-F/4) :qd (G/3.C-E/4) | :h (A/3.C-F/4)
