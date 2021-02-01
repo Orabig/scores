@@ -23,13 +23,13 @@
 c1: Gm                        Gm7      Cm7
 l1:  What have I got to do to make you love me
 
-c1: F                         F7      Bb     Am7b5  D7sus4 
+c1: F                         Bb     Am7b5  D7sus4 
 l1:  What have I got to do to make you care  
 
 c1: Gm         Gm7               Cm7
 l1:  What do I do when lightning strikes me
 
-c1: F                        F7        Bb     Am7b5  D7sus4 
+c1: F                        Bb     Am7b5  D7sus4 
 l1:  And I wake to find that you're not there  
 
 ## Verse 2
@@ -80,7 +80,7 @@ l1: Oh it seems to me,    that sorry seems to be the hardest word
 c1: Gm                        Cm
 l1:  What do I do to make you love me
 
-c1: F                    F7    Bb     Am7b5  D7sus4 |
+c1: F                       Bb     Am7b5  D7sus4 |
 l1:  What have I got to do to be heard  
 
 c1: Gm         Gm7               Cm
