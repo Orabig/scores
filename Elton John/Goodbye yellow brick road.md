@@ -22,10 +22,10 @@ l1: When are you going to land
 c1:  Eb                       C
 l1: I should have stayed on the farm, should have
 
-c1: F                  Bb
+c1: F                  
 l1: Listened to my old man
 
-c1:     Gm                        C
+c1:     Gm7         Bb           C
 l1: You know you can't hold me forever
 
 c1:   F                   Bb
@@ -37,7 +37,7 @@ l1: I'm not a present for your friends to open
 c1:      F                     F
 l1: This boy's too young to be singing
 
-c1:     Db  Eb   Ab  Db   Bbm  C7
+c1:     Bbm7   Eb7   Ab  Db   Bbm  C
 l1: The blues... Ah...... Ah....
 
 ## Chorus
@@ -50,7 +50,7 @@ l1: Where the dogs of society howl
 c1:     D7                     Gm
 l1: You can't plant me in your penthouse
 
-c1:     C                F
+c1:     C                F   C/E
 l1: I'm going back to my plow
 
 c1: Dm                      A
@@ -62,17 +62,17 @@ l1: Hunting the horny back toad
 c1: Db Eb   F         C/E      Dm       Dm/C
 l1: Oh I've finally decided my future lies
 
-c1:    Bb      C            Db  Eb
+c1:    Bb      C            Bbm7  Eb
 l1: Beyond the yellow brick road ...
 
-c1: Ab  Db  Bbm  C  F
+c1: Ab  Db  Bbm7  C  F
 l1: Ah..... Ah......
 
 ## Verse 2
-c1: Gm                       C
+c1: Gm          Bb            C
 l1: What do you think you'll do then?
 
-c1:   F                            Bb
+c1: F           F/A          Bb
 l1: I bet they'll shoot down the plane
 
 c1:       Eb                   C
