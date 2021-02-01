@@ -50,7 +50,7 @@ l1: I hope you don't mind, I hope you don't mind,
 c1: Am7b5              Ab6
 l1: that I put down in words 
 
-c1: Eb/G          Ab             Bb     Bbsus4   Bb
+c1: Eb/G          Ab                           Bb
 l1: How wonderful life is, while you're in the world 
 
 ## Verse 3
@@ -86,7 +86,7 @@ l1: I hope you don't mind, I hope you don't mind,
 c1: Am7b5              Ab6
 l1: that I put down in words 
 
-c1: Eb/G          Ab             Bb         Eb
+c1: Eb/G          Ab                           Eb
 l1: How wonderful life is, while you're in the world
 
 c1: Eb Ab/Eb Bb/Eb Ab/Eb
