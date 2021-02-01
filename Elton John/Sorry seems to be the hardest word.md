@@ -12,9 +12,10 @@
 :::
 
 :::vextab
-  options space=00 width=400
+  options space=10 width=400
   tabstave notation=true tablature=false key=F time=4/4
   notes :qd E/5 :16 Bn/4-C/5 :8 G-E/4 D-C/4 | :q ## :16 G-F#-G-A/4 :8 G-F-C/4-A/3
+  text :h, Cm, ,| , Am7b5, D7
 :::
 
 
