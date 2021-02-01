@@ -22,13 +22,15 @@
 ## Verse 1
 c1: Gm                        Gm7      Cm7
 l1:  What have I got to do to make you love me
-l2: F                         F7      Bb     Am7b5  D7sus4 
-l3:  What have I got to do to make you care  
+
+c1: F                         F7      Bb     Am7b5  D7sus4 
+l1:  What have I got to do to make you care  
 
 c1: Gm         Gm7               Cm7
 l1:  What do I do when lightning strikes me
-l2: F                        F7        Bb     Am7b5  D7sus4 
-l3:  And I wake to find that you're not there  
+
+c1: F                        F7        Bb     Am7b5  D7sus4 
+l1:  And I wake to find that you're not there  
 
 ## Verse 2
 c1: Gm         Gm7            Cm
