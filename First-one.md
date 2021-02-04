@@ -8,5 +8,5 @@ l1: All the leaves are brown        and the sky is gray
 
 
 :::vexflow
-E4, F4
+G5, A5
 :::
