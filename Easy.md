@@ -4,7 +4,7 @@
 # Easy
 
 :::vextab
-options width=600 space=10
+options width=550 space=10
 tabstave
   notation=true tablature=false
   key=Ab
