@@ -3,6 +3,18 @@
 
 # Easy
 
+:::vextab
+options width=600 space=10
+tabstave
+  notation=true tablature=false
+  key=Ab
+  notes :qd (A/4.C/5.E/5) :8 A/4 (C/5.E/5) :qd A/4
+  notes :qd (G/4.B/4.E/5) :8 G/4 (B/4.E/5) :qd G/4 |
+  notes :qd (F/4.A/4.D/5) :8 F/4 (A/4.D/5) :qd F/4
+  notes :q (F/4.A/4.D/5) :q (F/4.A/4.D/5) :q (F/4.A/4.D/5) :q (F/4.A/4.D/5)
+  text Ab, , , ,Cm7, , , , Bbm7, , , , Eb7
+:::
+
 ## Verse 1
  
 c1:  G#             Cm
