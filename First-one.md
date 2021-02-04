@@ -8,5 +8,5 @@ l1: All the leaves are brown        and the sky is gray
 
 
 :::vexflow
-C#5/q, B4[stem="down"], B4/8.
+E4, F4
 :::
