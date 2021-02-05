@@ -11,9 +11,9 @@ l1: All the leaves are brown        and the sky is gray
 stave
   voice
     notes
-        A4/q, B4
+        A4/q, B4, C4/h
 stave
   voice
     notes
-        A4/q, B4
+        F3/q, B3, C#3/h
 :::
