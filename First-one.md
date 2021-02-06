@@ -3,23 +3,23 @@
 
 :::vexflow
 stave
-  voice
+  bar
     notes
         A4/q, B4, C4/h
-  voice
+  bar
     notes
         A4/q, B4, C4/h
-  voice
+  bar
     notes
         A4/q, B4, C4/h
 stave
-  voice
+  bar
     notes
         F3/q, B3, C#3/h
-  voice
+  bar
     notes
         F3/q, B3, C#3/h
-  voice
+  bar
     notes
         F3/q, B3, C#3/h
 :::
