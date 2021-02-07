@@ -3,6 +3,8 @@
 
 # Famille
 :::vexflow
+options font=toto
+ fix
 staff
   bar
     notes
