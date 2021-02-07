@@ -3,7 +3,7 @@
 
 # Famille
 :::vexflow
-options 
+options key=F timeSignature=4/4
   fix
 staff
   bar
