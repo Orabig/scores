@@ -4,7 +4,8 @@
 # Jazz grid
 
 :::vexflow
-
+options font=jazz
+  ok
 staff 
   bar
     notes
