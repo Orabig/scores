@@ -9,5 +9,5 @@ options font=jazz
 staff 
   bar
     notes
-      B4/q/s, B4/q/s[id="1"], B4/q/s, B4/q/s
+      B4/q/s[id="1"], B4/q/s[id="2"], B4/q/s[id="3"], B4/q/s[id="4"]
 :::
