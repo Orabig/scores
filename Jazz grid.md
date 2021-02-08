@@ -3,6 +3,8 @@
 
 # Jazz grid
 
+TODO (implement model + generation lines 128+ in renderer)
+
 :::vexflow
 options font=jazz
   ok
