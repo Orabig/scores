@@ -17,7 +17,7 @@ staff
     A4/q, E4/q, A4/h
 staff 
   bar
-    A2/q, A3/q, A3/q, A3/q
+    A2/q, F3/8, G3/8, A3/8, Ab3/8, An3/q
   bar
     A2/q, E2/q, A3/h
 :::
