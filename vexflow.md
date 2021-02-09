@@ -9,6 +9,7 @@
 ```
 
 :::vexflow
+options debug=true
 staff
   bar
     notes
