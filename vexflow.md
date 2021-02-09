@@ -13,7 +13,7 @@ options debug=true timeSignature=4/4 key=Bb
 staff
   bar
     A4/q, A5/q, A4/q, A4/q
-  bar width=100
+  bar width=200 repeat=end
     A4/q, E4/q, A4/h
 staff
   bar
