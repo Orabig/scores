@@ -29,7 +29,7 @@ l1: Le temps dure longtemps
 c1: F              C   Em/B   Am
 l1: Et la vie sûrement
 
-c1:       Am/G              D7  D4 D7 Em Dm7 Dm7 Dm7 Dm7 G
+c1:       Am/G              D7  Dsus D7 Em Dm7 Dm7 Dm7 Dm7 G
 l1: Plus d'un million d'années
 
 c1:                 C
@@ -60,7 +60,7 @@ l1: Le temps dure longtemps
 c1: F              C   Em/B   Am
 l1: Et la vie sûrement
 
-c1:       Am/G              D7  D4 D7 Em Dm7 Dm7 Dm7 Dm7 G
+c1:       Am/G              D7  Dsus D7 Em Dm7 Dm7 Dm7 Dm7 G
 l1: Plus d'un million d'années
 
 c1:                 C
