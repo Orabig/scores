@@ -7,7 +7,7 @@
 ## VexTab
 
 :::vextab
-options space=20
+options space=20 width=650
 
 tabstave
   notation=true
