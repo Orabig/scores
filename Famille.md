@@ -4,26 +4,19 @@
 # Famille
 :::vexflow
 options key=G timeSignature=4/4
-  fix
 staff
   bar
-    notes
       (A4 D5)/8, B4, G4, D4/q, B3/8, G4, B3
   bar
-    notes
       E4/8, F4, B3, D4, D4/h
   bar
-    notes
       (C4 E4)/q, (G3 C4), (C4 E4)/8, F4, (E4 G4)/q
 staff
   bar
-    notes
       (G2 G3)/w
   bar
-    notes
       (B1 B2)/w
   bar
-    notes
       (C2 C3)/h, C3
 :::
 
