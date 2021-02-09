@@ -10,7 +10,7 @@
 
 :::vexflow
 options debug=true timeSignature=4/4 key=Bb
-staff clef=
+staff
   bar
     A4/q, A5/q, A4/q, A4/q
   bar
