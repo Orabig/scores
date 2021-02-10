@@ -1,2 +1,2 @@
 # scores
-Partitions à utiliser avec https://music.crocoware.com/ (fork de https://music-markdown.github.io/)
+Partitions à lire sur http://music.crocoware.com/Orabig/scores/#/ (fork de https://music-markdown.github.io/)
