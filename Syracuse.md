@@ -7,7 +7,7 @@ lyrics : Bernard Dimey
  
 ## Verse 1
 
-c1: FM9 h                    Gm9
+c1: FM9                     Gm9
 l1: J'aimerais tant voir Syracuse
 
 c1:         C13         FM7   F6
