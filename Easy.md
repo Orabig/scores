@@ -3,6 +3,8 @@
 
 # Easy
 
+TODO : write this in vexstaff
+
 :::vextab
 options width=550 space=10
 tabstave
