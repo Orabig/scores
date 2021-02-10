@@ -5,7 +5,7 @@
 
 :::vexflow
 options debug=true timeSignature=4/4
-staff nosteam=true
+staff
   bar
     G4/8, B3, C4, G4, G4, B3, C4, G4
   bar
