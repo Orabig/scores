@@ -1,11 +1,11 @@
 # `extension-name` to be defined
 
 :::vexflow
-options debug=true timeSignature=4/4 key=Bb
+options debug=true timeSignature=4/4 key=Bb width=500
 staff
   bar
     A4/q, A5/q, A4/q, A4/q
-  bar width=200 repeat=end
+  bar width=150 repeat=end
     A4/q, E4/q, A4/h
 staff
   bar
