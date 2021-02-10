@@ -32,9 +32,30 @@ Rules :
 These rules are defined by the module [Easyscore](https://github.com/0xfe/vexflow/wiki/Using-EasyScore) on
 which `extension-name` is based.
 
-### Note height and duration
+## Structure of the markup
 
-Note are defined with the syntax `[A-H]ALTER?[0-9](/DUR)?`, where :
+Basic markup syntax to display a system is :
+
+```
+:::vexflow
+options [opts...]
+staff [opts...]
+  bar [opts...]
+    ...
+    [...]
+  [bar...]
+[staff...]
+:::
+```
+
+- `options` is optional (obviously) and allows to define global parameters.
+- `staff` must be present at least once. staff-specific options may be defined on the same line.
+- `bar` must be present at least once under each `staff`. bar-specific options may be defined.
+- Series of notes may be defined under each `bar`, in one or multiple lines (which are concatenated)
+
+## Note height and duration
+
+Note are defined with the syntax "`[A-H]ALTER?[0-9](/DUR)?`", where :
 - [A-G] : The note (anglosaxon notation)
 - ALTER : (optional) an alteration. Possible values are :
   - n : natural
@@ -54,14 +75,43 @@ Note are defined with the syntax `[A-H]ALTER?[0-9](/DUR)?`, where :
 
 The notes are separated by a comma.
 
-Example : the G major scale would be written (with eight notes)
+**Example :** the G major scale would be written (with eight notes)
 
 ```
-G4/8, A4, B4, C5, D5, E5, F#5, G
+:::vexflow
+staff
+  bar
+    G4/8, A4, B4, C5,
+    D5, E5, F#5, G5
+:::
 ```
 
 :::vexflow
-staff width=100
+staff
+  bar width=300
+    G4/8, A4, B4, C5,
+    D5, E5, F#5, G5
+:::
+
+## Chords
+
+Chords (multiple notes, same time and duration) are defined with the syntax "`(note1 note2...)(/DUR)?`"
+
+**Example :**
+
+```
+:::vexflow
+staff 
   bar
-    G4/8, A4, B4, C5, D5, E5, F#5, G5
+    (C4 E4 G4)/q,     (C4 Eb4 Gb4 A4),
+    Bb4,              (D4 G4 B4)
+:::
+```
+
+
+:::vexflow
+staff
+  bar width=300
+    (C4 E4 G4)/q, (C4 Eb4 Gb4 A4),
+    Bb4,          (D4 G4 B4)
 :::
