@@ -16,18 +16,6 @@ staff
     A2/q, E2/q, E3/h
 :::
 
-Usage :
-- options.debug : display vexflow struct with error messages
-- options.timeSignature : if set, displays the time signature
-- options.key : displays the key signature
-- staff.clef : if set changes the default clef
-- bar.width : sets the measure width (pixels)
-- bar.repeat : if set to 'end', the measure end with a repeat bar
- 
-
-Rules :
-- by default, first staff has a 'treble' clef, following are 'bass'.
-- bar options are only taken into account on first staff.
 
 # Basic notations
 
@@ -117,3 +105,22 @@ staff
     (C4 E4 G4)/q, (C4 Eb4 Gb4 A4),
     Bb4,          (D4 G4 B4)
 :::
+
+# Options
+
+Optional parameters may be written after "options", "staff" or "bar" (on the same line)
+
+TODO : Rewrite this list of option with a table
+
+Usage :
+- options.timeSignature : if set, displays the time signature (eg. '4/4' or 'C')
+- options.key : displays the key signature (eg. key=Bb)
+- staff.clef : if set changes the default clef
+- bar.width : sets the measure width (pixels)
+- bar.repeat : if set to 'end', the measure end with a repeat bar
+- nostem : hides the stem of the notes
+ 
+
+Rules :
+- by default, first staff has a 'treble' clef, following are 'bass'.
+- bar options are only taken into account on first staff.
