@@ -5,9 +5,9 @@
 :::vexflow
 options key=G timeSignature=4/4
 staff
-  bar
+  bar width=220
       (A4 D5)/8, B4, G4, D4/q, B3/8, G4, B3
-  bar
+  bar width=100
       E4/8, F4, B3, D4, D4/h
   bar
       (C4 E4)/q, (G3 C4), (C4 E4)/8, F4, (E4 G4)/q
