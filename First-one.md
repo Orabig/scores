@@ -12,5 +12,5 @@ staff
   bar
         B2/q, D3/8, E3/8, E3/q
   bar
-        C3/q, G3/8, F3/8, F3/q
+        C3/q, B3/8, C4/8, D4/q
 :::
