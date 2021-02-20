@@ -3,7 +3,7 @@
 
 :::vexflow
 options timeSignature=3/4
-staff
+staff test bach
   bar
         (F4 B4 D5)/q, (F4 B4 D5)/q, (G4 B4 E5)/q
   bar
