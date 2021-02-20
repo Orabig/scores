@@ -2,6 +2,7 @@
 ---
 
 :::vexflow
+options timeSignature=4/4
 staff
   bar
         (F4 B4 D5)/q, (F4 B4 D5)/q, (G4 B4 E5)/q, (G4 B4 E5)/q
