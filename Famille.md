@@ -3,9 +3,9 @@
 
 # Famille
 :::vexflow
-options key=G timeSignature=4/4
+options key=G timeSignature=4/4 scale=0.75
 staff
-  bar width=220
+  bar width=230
       (A4 D5)/8, B4, G4, D4/q, B3/8, G4, B3
   bar width=100
       E4/8, F4, B3, D4, D4/h
