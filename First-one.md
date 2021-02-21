@@ -10,7 +10,7 @@ staff test
         (G4 B4 C5 E5)/q, (G4 B4 C5 E5)/q, (F4 A4 C5 E5)/q
 staff
   bar
-        B2/q, D3/h
+        B2/q,D3/h
   bar
         C3/q, B3/8, C4/8, D4/q
 :::
