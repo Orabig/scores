@@ -2,7 +2,7 @@
 ---
 
 :::vexflow
-options timeSignature=3/4 debug=true
+options timeSignature=3/4 debug=true font=jazz
 staff test 
   bar
         (F4 B4 D5)/q, (F4 B4 D5)/q, (G4 B4 E5)/q
