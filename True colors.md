@@ -7,7 +7,7 @@
 options debug=true timeSignature=4/4 width=600 scale=0.75 font=jazz
 staff
   bar
-    G4/8, B3, C4, G4, G4, B3, C4, G4
+    G4/8, B3, C4, G4, G4, B3, C4, G4{G/C}
   bar
     G4/8, B3, C4, A3_ A3/q, B3/8, C4
 staff
