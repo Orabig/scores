@@ -5,7 +5,24 @@
 
 ## Intro
 
-c1: Eb Ab/Eb Bb/Eb Ab/Eb
+
+:::vexflow
+options key=Eb scale=0.7 timeSignature=4/4 width=800
+staff
+  bar
+    (G4 B4 E5 G5)/8{Eb}, G4/16, B4-B4, G5, E5/8,
+    (A4 C5 E5 A5)/8{Ab//Eb}, E5/16, C5-C5, (A4 A5), E5/8
+  bar
+    (F4 B4 C5)/16{Bb//Eb}, D5, B4, F5-F5, D5, B4/8,
+    (C4 A4)/16{Ab//Eb}, E4, C4, C5-C5, A4, C4/8
+staff
+  bar
+    (E2 E3)/q, E3/8., E3/16,
+    (E2 E3)/q, E3/8., E3/16
+  bar
+    (E2 E3)/q, E3/8., E3/16,
+    (E2 E3)/q, E3/8., E3/16
+:::
 
 ## Verse
 
