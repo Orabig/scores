@@ -3,13 +3,29 @@
 
 # Goodbye yellow brick road
 
-:::vextab
-  options space=20 width=400
-  tabstave notation=true tablature=false key=F time=4/4
-  notes :h (C-F-A/4) (G/3.C-G/4) | (A/3.D-F/4) (A/3.C-D-F/4) |
-  notes :q (F-B/3.D/4) :8 D/4 (A/3.C-F/4) :qd (G/3.C-E/4) | :h (A/3.C-F/4)
-  text :h, F, C/E, |, Dm, Dm7/C, |, :q, Bb, F/C, :h, C,|, F 
+
+:::vexflow
+options space=20 width=590 scale=0.6 key=F
+staff
+  bar
+    (C5 F5 A5)/h, (G4 C5 G5)
+  bar
+    (A4 D5 F5)/h, (A4 C5 D5 F5)
+  bar
+    (F4 B4 D5)/q., D5/8, (A4 C5 F5), (G4 C5 E5)/q.
+  bar
+    (A4 C5 F5)/q., F4/8, F5, C5, A4/q
+staff
+  bar
+    F3/h, E3
+  bar
+    D3/h, C3
+  bar
+    B2/q., B2/8, C3, C3/q, E2/8
+  bar
+    F2/q., D3/8/r, D3/q/r, C3
 :::
+
 
  
 ## Verse 1
